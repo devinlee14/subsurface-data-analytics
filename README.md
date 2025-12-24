@@ -1,6 +1,6 @@
 # subsurface-data-analytics
 
-I am a Geology graduate with background in petrophysics and 
+Graduated as Geologist in 2020, with background in petrophysics and currently
 professional experience as a Data Analyst.
 This portfolio demonstrates how data analytics and Python
 can be applied to subsurface and production problems
